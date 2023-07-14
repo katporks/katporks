@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kat Olaguer, a passionate developer with experience in creative coding, web development, and building AI-powered tools 🌱 Here are some of the projects I've worked on:
+I'm Kat Olaguer, a Full Stack Developer with experience in creative coding, web development, and building AI-powered tools 🌱 Here are some of the projects I've worked on:
 
 1. [Creative Coding](https://github.com/katporks/creative-coding) - In the exhibition "atop remembering" thoughtfully curated by Amelia Earhart at New Westminster's Arrietta Art Gallery, I showcased creative coding projects inspired by my memories of growing up between Manila and Vancouver. The exhibition highlighted the intersection of art and technology, and my projects were displayed as interactive installations. I created interactive prototypes and showcased the completed works [here](https://atop-remembering.web.app). Guests at the exhibition had the opportunity to engage with the pieces and experience the fusion of art and coding.
 
