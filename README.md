@@ -13,6 +13,7 @@ These projects showcase my skills in Node.js, JavaScript, p5.js, WebGL, HTML5, C
 Feel free to explore these projects to get a better idea of my work. I'm always eager to collaborate and take on new challenges. Let's connect and discuss how we can create something amazing together!
 
 🔭 I’m currently working on obtaining an AWS certification
+
 📫 How to reach me: katherine.olaguer@gmail.com
 
 
