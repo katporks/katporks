@@ -12,7 +12,7 @@ These projects showcase my skills in Node.js, JavaScript, p5.js, WebGL, HTML5, C
 
 Feel free to explore these projects to get a better idea of my work. I'm always eager to collaborate and take on new challenges. Let's connect and discuss how we can create something amazing together!
 
-🔭I am currently collaborating with Swoon Creative Media and the Humanitarian OpenStreetMap Team to transition and restructure their existing website from Jenkins to a more robust Django/Wagtail framework.
+🔭 I am currently collaborating with Swoon Creative Media and the Humanitarian OpenStreetMap Team to transition and restructure their existing website from Jenkins to a more robust Django/Wagtail framework.
 
 📫 How to reach me: katherine.olaguer@gmail.com
 
